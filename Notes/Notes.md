@@ -44,3 +44,13 @@ So, HTML is a language for creating structured documents with hyperlinks. It's t
 
 >Think of HTML as the blueprint or structure of a building. The blueprint contains instructions on how different parts of the building should be arranged and connected. Each element in HTML (like headings, paragraphs, links) is like a different component of the building. Hyperlinks act as doors or pathways connecting different parts of the building or even leading to other buildings (web pages). So, HTML is essentially the language that structures and connects different pieces of content on the web, creating a cohesive and navigable experience for users.
 
+### Elements
+![image](https://github.com/hiMadhusudan/HTML-Codes-and-Notes/assets/76695160/26529da8-e5f0-448d-9059-39ff542d5f71)
+
+> [!NOTE]
+> HTML is case-insensitive, still, we should write tags and attributes in lowercase.  
+> Some attributes' value is case-sensitive.  
+> HTML forgives us if we skip the closing tag for some HTML elements, still, we should use the closing tag.  
+
+
+
