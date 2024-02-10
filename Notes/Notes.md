@@ -83,3 +83,7 @@ So, HTML is a language for creating structured documents with hyperlinks. It's t
 ```
 
 ![image](https://github.com/hiMadhusudan/HTML-Codes-and-Notes/assets/76695160/b423049a-8510-4117-9c5c-d8b6915cd105)
++ When using <script defer>: HTML rendering is not blocked while the script downloading, once HTML is rendered and the script downloaded, the script is executed
++ When using <script async>: HTML rendering is not blocked too, and script is downloaded side by side, and once script is downloaded, html rendering is paused and script gets executed, and then html rendering resumes.
+
+
