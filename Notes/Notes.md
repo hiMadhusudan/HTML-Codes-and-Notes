@@ -70,3 +70,4 @@ So, HTML is a language for creating structured documents with hyperlinks. It's t
 </html>
 ```
 
+![image](https://github.com/hiMadhusudan/HTML-Codes-and-Notes/assets/76695160/b423049a-8510-4117-9c5c-d8b6915cd105)
