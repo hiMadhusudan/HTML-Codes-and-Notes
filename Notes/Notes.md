@@ -52,5 +52,21 @@ So, HTML is a language for creating structured documents with hyperlinks. It's t
 > Some attributes' value is case-sensitive.  
 > HTML forgives us if we skip the closing tag for some HTML elements, still, we should use the closing tag.  
 
+-----------------------------------------------------------------------------------------------------------------
 
+## Document Structure
+
+```html
+<!DOCTYPE html>
+<html lang="en"> 
+  <head>
+    <meta charset="utf-8" />
+    <title>Machine Learning Workshop</title>
+    <meta name="viewport" content="width=device-width" />
+  </head>
+  <body>
+
+  </body>
+</html>
+```
 
