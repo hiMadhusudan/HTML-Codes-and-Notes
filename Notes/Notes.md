@@ -58,15 +58,27 @@ So, HTML is a language for creating structured documents with hyperlinks. It's t
 
 ```html
 <!DOCTYPE html>
-<html lang="en"> 
-  <head>
-    <meta charset="utf-8" />
-    <title>Machine Learning Workshop</title>
-    <meta name="viewport" content="width=device-width" />
-  </head>
-  <body>
+<html lang="en">
 
-  </body>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Learn HTML5</title>
+    <base target="_top" href="https://github.com" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" sizes="16x16 32x32 48x48" type="image/png" href="/images/micon.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/micon.png" />
+    <link rel="mask-icon" href="/images/micon.svg" color="#226DAA" />
+    <link rel="alternate" href="https://www.github.com/fr/" hreflang="fr-FR" />
+    <link rel="alternate" href="https://www.github.com/pt/" hreflang="pt-BR" />
+    <link rel="alternate" type="application/x-pdf" href="https://github.com/mlw.pdf" />
+    <link rel="canonical" href="https://www.github.com" />
+</head>
+
+<body>
+    <!-- <script defer src="scripts/lightswitch.js"></script>-->
+</body>
+
 </html>
 ```
 
